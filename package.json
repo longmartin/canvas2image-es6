@@ -1,0 +1,22 @@
+{
+  "name": "canvas2image-es6",
+  "version": "1.0.0",
+  "description": "canvas2image的es6版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxjsteven/canvas2image-es6.git"
+  },
+  "keywords": [
+    "123qwe"
+  ],
+  "author": "xj.wang@knowyourself.cc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxjsteven/canvas2image-es6/issues"
+  },
+  "homepage": "https://github.com/wangxjsteven/canvas2image-es6#readme"
+}
